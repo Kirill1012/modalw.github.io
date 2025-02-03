@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modalw.github.io/static/css/main.6941c673.css",
+    "main.js": "/modalw.github.io/static/js/main.57a2127a.js",
+    "static/js/146.04b24369.chunk.js": "/modalw.github.io/static/js/146.04b24369.chunk.js",
+    "index.html": "/modalw.github.io/index.html",
+    "main.6941c673.css.map": "/modalw.github.io/static/css/main.6941c673.css.map",
+    "main.57a2127a.js.map": "/modalw.github.io/static/js/main.57a2127a.js.map",
+    "146.04b24369.chunk.js.map": "/modalw.github.io/static/js/146.04b24369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6941c673.css",
+    "static/js/main.57a2127a.js"
+  ]
+}
